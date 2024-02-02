@@ -9,6 +9,8 @@ This Python project consists of two main files, `fib.py` and `echo.py`, each ser
 - Plots the results using Matplotlib.
 - Screenshot of my code, there is an issue 75% of the way through the sequence. Assumed to be a hardware issue.
 ![fib](https://github.com/nak625/assignmnet1/assets/123668402/cf073dba-2eee-4fc1-90c6-4ee1b90a52e6)
+
+
    ```bash
    Sample Output:
    Finished in 0.00000000s : f(2) -> 2
@@ -32,7 +34,9 @@ This Python project consists of two main files, `fib.py` and `echo.py`, each ser
    Finished in 0.01701450s : f(98) -> 218922995834555169026
    Finished in 0.01701450s : f(99) -> 354224848179261915075
    Finished in 0.01701450s : f(100) -> 573147844013817084101
+   
 -The graph x is Fib(number) y is time it finished in.
+
 ![Figure_1](https://github.com/nak625/assignmnet1/assets/123668402/1867062a-742f-4124-a72d-e04e2d8eae3c)
 
 ### 2. `echo.py`
