@@ -38,6 +38,7 @@ This Python project consists of two main files, `fib.py` and `echo.py`, each ser
 -The graph x is Fib(number) y is time it finished in.
 
 ![Figure_1](https://github.com/nak625/assignmnet1/assets/123668402/1867062a-742f-4124-a72d-e04e2d8eae3c)
+![CreateList](https://github.com/nak625/assignmnet1/assets/123668402/42cdf4d1-13cf-4109-8445-7697bbbdd0a4)
 
 ### 2. `echo.py`
 - Implements a function `echo` to simulate a real-world echo effect.
